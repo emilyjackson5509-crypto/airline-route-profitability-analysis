@@ -4,3 +4,23 @@ Multi-decade analysis (1993–2023) of U.S. airline route profitability, includi
 Dataset Source:
 U.S. Airline Flight Routes and Fares (1993–2024), available on Kaggle:
  https://www.kaggle.com/datasets/bhavikjikadara/us-airline-flight-routes-and-fares-1993-2024  
+
+# Business Objective
+
+# Data Source + Grain
+
+# Data Cleaning + Validation
+
+# Feature Engineering
+
+# Exploratory Analysis (EDA)
+
+# Revenue Concentration (Pareto)
+
+# Route Ranking (Top/Bottom Deciles)
+
+# Key Findings
+
+# Recommendations
+
+# Limitations + Next Steps
